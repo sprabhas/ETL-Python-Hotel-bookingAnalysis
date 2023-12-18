@@ -1,10 +1,10 @@
 # ETL-Python-Hotel-bookingAnalysis
 
 DATA EXPLORATION
-Performed initial data analysis in pandas for the hotel booking datasets by understanding the structure and the information in the datasets . Used the functions shape , columns , unique,value_counts .
-Used read_csv to read the csv file to the pandas DataFrame . 
-Used the to_csv method to export the DataFrame to csv .
-Used matplotlib library to plot the data into visualizations.
+**1.** Performed initial data analysis in pandas for the hotel booking datasets by understanding the structure and the information in the datasets . Used the functions shape , columns , unique,value_counts .
+**2.** Used read_csv to read the csv file to the pandas DataFrame . 
+**3.** Used the to_csv method to export the DataFrame to csv .
+**4.** Used matplotlib library to plot the data into visualizations.
 DATA CLEANING
 Used the fillna method in pandas to fill the NaN values with the suitable values .
 Performed statistical methods the mean(),median(),std() . Checked the 3 step standard deviation method to fill the NaN values in the dataset .
