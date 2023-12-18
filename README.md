@@ -12,6 +12,7 @@ DATA CLEANING
 - [x] Used the fillna method in pandas to fill the NaN values with the suitable values .
 - [x] Performed statistical methods the mean(),median(),std() . Checked the 3 step standard deviation method to fill the NaN values in the dataset .
 - [x] Filtered the records which had negative values in the guest_no and revenue_generated .
+
 DATA TRANSFORMATION
 
 - [x] Used the groupby method in pandas to group the DataFrame and perform analysis .
